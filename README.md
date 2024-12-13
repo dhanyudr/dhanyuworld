@@ -1,3 +1,3 @@
 # dhanyuworld
 this is my 1st repository
-author - dhanyu donthi
+author - dhanyu d reddy
